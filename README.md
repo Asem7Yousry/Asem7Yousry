@@ -10,7 +10,7 @@ Passionate about system design, clean architecture, performance optimization, an
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/asem-yousry-0621a326/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/asem-yousry-0621a3266/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:asem23yousry@gmail.com)
 
 # 💻 Tech Stack:
