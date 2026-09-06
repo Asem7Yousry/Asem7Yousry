@@ -1,5 +1,12 @@
 # 💫 About Me:
-Backend Software Engineer focused on scalable system design<br>Experienced with Node.js, Django, and REST API development<br>Strong database knowledge: MongoDB, PostgreSQL, MySQL<br>Familiar with microservices architecture & clean architecture principles<br>Hands-on with Docker, AWS, Celery, and Redis for background processing<br>Integrated payment gateways (Stripe, Paymob) in real-world projects<br>Passionate about performance optimization and building reliable systems
+Backend Software Engineer specializing in Node.js, Express.js, and NestJS<br>
+Experienced with Python, Django, and Django REST Framework<br>
+Strong database knowledge: MongoDB, PostgreSQL, and MySQL<br>
+Experienced in building scalable RESTful APIs and e-commerce platforms<br>
+Hands-on with Docker, AWS, Redis, and Celery for caching and background processing<br>
+Integrated payment gateways including Stripe and Paymob in real-world projects<br>
+Built trading features including ticker alerts and external API integrations<br>
+Passionate about system design, clean architecture, performance optimization, and reliable backend systems
 
 
 ## 🌐 Socials:
